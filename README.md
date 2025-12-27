@@ -16,7 +16,6 @@
 
 ### 🗂️ Projects Under Construction
 - **SHIELD Intelligence Applications**
-- **ExamForger** *(Forging in progress)*
 
 ---
 
